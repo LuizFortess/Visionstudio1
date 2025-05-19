@@ -1,7 +1,3 @@
-# Visionstudio1
-Utilizando recursos do azure vision studio
-Criei um recurso no azure machine learning 
-Fui no estúdio de visão do azure 
-Testei as ferramentas de visão
-Fui na ferramente chamada extrair texto de imagens
-Realizei todo o processo e consegui retirar as informações que precisava 
+Desenvolvi um modelo de visão computacional com Azure ML para realizar reconhecimento facial e converter imagens em dados estruturados. Utilizei técnicas de pré-processamento, extração de características e automação de pipeline.
+Tecnologias: Python, Azure Machine Learning, Visão Computacional, OpenCV.
+
